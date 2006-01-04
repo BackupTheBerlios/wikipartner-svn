@@ -23,6 +23,6 @@ package com.edgenius.wikipartner;
 public class MainWiki {
 
 	public static void main(String[] args) {
-		
+		System.out.println("Why it can remember rename?");
 	}
 }
