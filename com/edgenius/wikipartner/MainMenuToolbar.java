@@ -20,7 +20,8 @@
  */
 package com.edgenius.wikipartner;
 
-public class MainMenuAndToolbar{
+public class MainMenuToolbar{
 
 	//new comment
+//change name again?
 }
