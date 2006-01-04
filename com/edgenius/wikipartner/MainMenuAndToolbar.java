@@ -20,7 +20,7 @@
  */
 package com.edgenius.wikipartner;
 
-public class MainMenu {
+public class MainMenuAndToolbar{
 
 	//new comment
 }
