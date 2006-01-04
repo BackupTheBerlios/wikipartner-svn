@@ -20,7 +20,7 @@
  */
 package com.edgenius.wikipartner;
 
-public class MainEntry {
+public class MainWiki {
 
 	public static void main(String[] args) {
 		
