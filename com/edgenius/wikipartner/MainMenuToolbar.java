@@ -23,5 +23,4 @@ package com.edgenius.wikipartner;
 public class MainMenuToolbar{
 
 	//new comment
-//change name again?
 }
